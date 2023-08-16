@@ -34,4 +34,7 @@ body{
     color: white;
     cursor: pointer;
     flex: 0.5;
+    margin: 10px;
+    position: relative;
+    transition: flex 0.7s ease-in;
 }
