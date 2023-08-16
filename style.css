@@ -19,3 +19,7 @@ body{
     /* if flexbox is a row, align items will align vertically */
     /* vh is viewport height aka entire height of browser */
 }
+
+.container{
+    display: flex;
+}
